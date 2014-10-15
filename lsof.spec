@@ -1,11 +1,11 @@
 Summary:	Lists files open by processes
 Name:		lsof
-Version:	4.87
-Release:	2
+Version:	4.88
+Release:	1
 License:	Free
 Group:		Applications/System
 Source0:	ftp://lsof.itap.purdue.edu/pub/tools/unix/lsof/%{name}_%{version}.tar.bz2
-# Source0-md5:	80e2a76d0e05826db910ec88e631296c
+# Source0-md5:	1b29c10db4aa88afcaeeaabeef6790db
 URL:		http://people.freebsd.org/~abe/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
